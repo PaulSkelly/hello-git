@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my first repository
+
+###
+I'll be posting some projects here, mainly based in C.  
+
+
 
 You can use the [editor on GitHub](https://github.com/PaulSkelly/hello-git/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
